@@ -1,0 +1,21 @@
+body{
+    background-color: #ffffff;
+    columns: #666666;
+}
+h1{
+    background-color: #000033;
+    color: #ffffff;
+    margin-bottom: 0;
+}
+nav{
+    background-color: #90c790;
+}
+h2{
+    color: #3399cc;
+}
+.resort{
+    color: #5c7a35;
+}
+#contact{
+    font-size: 90%;
+}
